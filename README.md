@@ -25,4 +25,3 @@ It focuses on building strong programming fundamentals through practical example
 
 ---
 
-## 📂 Folder Structure
